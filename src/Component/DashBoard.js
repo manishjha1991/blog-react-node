@@ -2,10 +2,10 @@ import React, { Component } from "react";
 import "./DashBoard.css";
 import Header from "./Header";
 import Footer from "./Footer";
-import upvote from "./upvote.png";
-import down from "./down.png";
-import comment from "./comment.png";
-import Share from "./Share.png"
+import upvote from "./assets/upvote.png";
+import down from "./assets/down.png";
+import comment from "./assets/comment.png";
+import Share from "./assets/Share.png"
 class DashBoard extends Component {
   render() {
     return (
