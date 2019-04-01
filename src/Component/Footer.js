@@ -3,7 +3,7 @@ function Footer(props) {
   return (
     <div>
       <footer>
-          <p>&copy; 2014 - This is the footer.</p>
+      <p>&copy; 2019 manishjha.com</p>
         </footer>
     </div>
   );

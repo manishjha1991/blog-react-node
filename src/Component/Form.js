@@ -17,6 +17,11 @@ class Form extends Component {
               <br />
               <input placeholder="Type Your Answer" type="textarea" />
               <br />
+              <div className="upload-btn-wrapper">
+                <button className="btn">Upload a file</button>
+                <input type="file" name="myfile" />
+              </div>
+              <br />
               <input type="submit" value="Submit" />
             </fieldset>
           </center>
