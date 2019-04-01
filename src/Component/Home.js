@@ -39,12 +39,7 @@ class Home extends Component {
           <aside className="sidebar">
             <div className="image-banner">
               <img src={logo} style={{ width: "auto" }} alt="logo" />
-              <div className="image-decription">
-                <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
-                </p>
-              </div>
+              
             </div>
           </aside>
         </div>

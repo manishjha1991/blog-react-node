@@ -9,8 +9,8 @@ class App extends Component {
     return (
       <div>
         {/* <Home /> */}
-        <Form />
-        {/* <DashBoard/> */}
+        {/* <Form /> */}
+        <DashBoard/>
       </div>
     );
   }
