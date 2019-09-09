@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import "./DashBoard.css";
-import Header from "./Header";
-import Footer from "./Footer";
-import upvote from "./assets/upvote.png";
-import down from "./assets/down.png";
-import comment from "./assets/comment.png";
-import Share from "./assets/Share.png"
+import Header from "../Header/Header";
+import Footer from "../Footer/Footer";
+import upvote from "../assets/upvote.png";
+import down from "../assets/down.png";
+import comment from "../assets/comment.png";
+import Share from "../assets/Share.png"
 class DashBoard extends Component {
   render() {
     return (

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import logo from "../laptop-t2.jpg";
-import Header from "./Header";
-import Footer from "./Footer"
+import logo from "../../laptop-t2.jpg";
+import Header from "../Header/Header";
+import Footer from "../Footer/Footer"
 class Home extends Component {
   render() {
     return (

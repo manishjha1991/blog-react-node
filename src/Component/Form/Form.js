@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./Form.css";
-import Header from "./Header";
-import Footer from "./Footer";
+import Header from "../Header/Header";
+import Footer from "../Footer/Footer";
 class Form extends Component {
   render() {
     return (

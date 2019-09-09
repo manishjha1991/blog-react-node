@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom'
-import Form from "./Form";
+import Form from "../Form/Form";
 
 
 
@@ -20,7 +20,7 @@ function Header(props) {
             <Link to="/form">Form</Link>
             </li>
             <li>
-            <Link to="/portfolio">Portfolio</Link>
+            <Link to="/dashboard">Portfolio</Link>
             </li>
             <li>
             <Link to="/contactus">Contact Us</Link>
